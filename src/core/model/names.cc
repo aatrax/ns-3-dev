@@ -248,6 +248,10 @@ public:
    */
   Ptr<Object> Find (Ptr<Object> context, std::string name);
 
+  NameNode returnroot(){
+    return m_root;
+  }
+
 private:
   
   /**
@@ -853,6 +857,18 @@ Names::FindInternal (Ptr<Object> context, std::string name)
 {
   NS_LOG_FUNCTION (context << name);
   return NamesPriv::Get ()->Find (context, name);
+}
+
+
+//自实现
+std::vector<std::string> 
+Names::retallnames(){
+  std::vector<std::string> res;
+  NameNode myroot=NamesPriv::Get()->returnroot();
+  for(auto it=myroot.m_nameMap.begin();it!=myroot.m_nameMap.end();++it){
+    res.emplace_back(it->first);
+  }
+  return res;
 }
 
 } // namespace ns3

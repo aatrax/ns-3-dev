@@ -38,7 +38,8 @@ namespace ns3 {
 class Names
 {
 public:
-
+//自实现
+  static std::vector<std::string> retallnames();
   /**
    * \brief Add the association between the string "name" and the
    * Ptr<Object> obj.

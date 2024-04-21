@@ -95,6 +95,8 @@ static SimulatorImpl ** PeekImpl (void)
  * \return The singleton pointer.
  * \see Simulator::GetImplementation()
  */
+//我的理解：PeekImpl函数中的二重指针是static的，而只有在*pimpl为空指针时才会新建一个
+//simulatorImpl对象，所以在一个程序中只会有一个simulator
 static SimulatorImpl * GetImpl (void)
 {
   SimulatorImpl **pimpl = PeekImpl ();
