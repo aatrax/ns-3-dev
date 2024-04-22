@@ -1,0 +1,146 @@
+Waf: Entering directory `/home/lvtao/ndnSIM/ns-3/build'
+Waf: Leaving directory `/home/lvtao/ndnSIM/ns-3/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.968s)
+forwarder set name successfully: A0
+forwarder set name successfully: A1
+forwarder set name successfully: A2
+forwarder set name successfully: A3
+forwarder set name successfully: A4
+forwarder set name successfully: A5
+forwarder set name successfully: C0
+forwarder set name successfully: C1
+forwarder set name successfully: C10
+forwarder set name successfully: C12
+forwarder set name successfully: C13
+forwarder set name successfully: C14
+forwarder set name successfully: C15
+forwarder set name successfully: C16
+forwarder set name successfully: C17
+forwarder set name successfully: C18
+forwarder set name successfully: C19
+forwarder set name successfully: C2
+forwarder set name successfully: C20
+forwarder set name successfully: C21
+forwarder set name successfully: C22
+forwarder set name successfully: C23
+forwarder set name successfully: C24
+forwarder set name successfully: C25
+forwarder set name successfully: C26
+forwarder set name successfully: C27
+forwarder set name successfully: C28
+forwarder set name successfully: C29
+forwarder set name successfully: C3
+forwarder set name successfully: C30
+forwarder set name successfully: C31
+forwarder set name successfully: C32
+forwarder set name successfully: C33
+forwarder set name successfully: C34
+forwarder set name successfully: C35
+forwarder set name successfully: C36
+forwarder set name successfully: C37
+forwarder set name successfully: C38
+forwarder set name successfully: C39
+forwarder set name successfully: C4
+forwarder set name successfully: C40
+forwarder set name successfully: C41
+forwarder set name successfully: C42
+forwarder set name successfully: C43
+forwarder set name successfully: C44
+forwarder set name successfully: C5
+forwarder set name successfully: C6
+forwarder set name successfully: C7
+forwarder set name successfully: C8
+forwarder set name successfully: C9
+forwarder set name successfully: P0
+forwarder set name successfully: P1
+forwarder set name successfully: P2
+forwarder set name successfully: P3
+forwarder set name successfully: P4
+forwarder set name successfully: R0
+forwarder set name successfully: R1
+forwarder set name successfully: R10
+forwarder set name successfully: R11
+forwarder set name successfully: R12
+forwarder set name successfully: R13
+forwarder set name successfully: R14
+forwarder set name successfully: R15
+forwarder set name successfully: R16
+forwarder set name successfully: R17
+forwarder set name successfully: R18
+forwarder set name successfully: R19
+forwarder set name successfully: R2
+forwarder set name successfully: R20
+forwarder set name successfully: R21
+forwarder set name successfully: R22
+forwarder set name successfully: R23
+forwarder set name successfully: R24
+forwarder set name successfully: R25
+forwarder set name successfully: R26
+forwarder set name successfully: R27
+forwarder set name successfully: R28
+forwarder set name successfully: R29
+forwarder set name successfully: R3
+forwarder set name successfully: R30
+forwarder set name successfully: R31
+forwarder set name successfully: R32
+forwarder set name successfully: R33
+forwarder set name successfully: R34
+forwarder set name successfully: R35
+forwarder set name successfully: R36
+forwarder set name successfully: R37
+forwarder set name successfully: R38
+forwarder set name successfully: R39
+forwarder set name successfully: R4
+forwarder set name successfully: R40
+forwarder set name successfully: R41
+forwarder set name successfully: R42
+forwarder set name successfully: R43
+forwarder set name successfully: R44
+forwarder set name successfully: R45
+forwarder set name successfully: R46
+forwarder set name successfully: R47
+forwarder set name successfully: R48
+forwarder set name successfully: R49
+forwarder set name successfully: R5
+forwarder set name successfully: R50
+forwarder set name successfully: R51
+forwarder set name successfully: R52
+forwarder set name successfully: R53
+forwarder set name successfully: R54
+forwarder set name successfully: R55
+forwarder set name successfully: R56
+forwarder set name successfully: R57
+forwarder set name successfully: R58
+forwarder set name successfully: R59
+forwarder set name successfully: R6
+forwarder set name successfully: R60
+forwarder set name successfully: R61
+forwarder set name successfully: R62
+forwarder set name successfully: R63
+forwarder set name successfully: R64
+forwarder set name successfully: R65
+forwarder set name successfully: R66
+forwarder set name successfully: R67
+forwarder set name successfully: R68
+forwarder set name successfully: R69
+forwarder set name successfully: R7
+forwarder set name successfully: R70
+forwarder set name successfully: R71
+forwarder set name successfully: R72
+forwarder set name successfully: R73
+forwarder set name successfully: R8
+forwarder set name successfully: R9
+R53 interest num: 0 on time: -1 to 0
+R53 data num: 0 on time: -1 to 0
+R53 nack num: 0 on time: -1 to 0
+R56 interest num: 0 on time: -1 to 0
+R56 data num: 0 on time: -1 to 0
+R56 nack num: 0 on time: -1 to 0
+R53 interest num: 18 on time: 0 to 1
+R53 data num: 17 on time: 0 to 1
+R53 nack num: 0 on time: 0 to 1
+R56 interest num: 36 on time: 0 to 1
+R56 data num: 36 on time: 0 to 1
+R56 nack num: 0 on time: 0 to 1
+[01;31mInterrupted[0m 
